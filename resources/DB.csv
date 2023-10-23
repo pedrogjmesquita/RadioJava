@@ -1,0 +1,169 @@
+freq,nome,path
+"76.7 MHz","Jovem Pan News",./lib/sound/midias/76_7.wav
+"77.5 MHz","Radio Capital",./lib/sound/midias/77_5.wav
+"77.9 MHz","Cultura Brasil",./lib/sound/midias/77_9.wav
+"79.5 MHz","Radio São Paulo",./lib/sound/midias/79_5.wav
+"79.9 MHz","Nova Difusora",./lib/sound/midias/79_9.wav
+"80.9 MHz","Radio RBC FM",./lib/sound/midias/80_9.wav
+"81.9 MHz","Radio ABC",./lib/sound/midias/81_9.wav
+"82.9 MHz","Melhor FM",./lib/sound/midias/82_9.wav
+"83.1 MHz","Vibe Mundial",./lib/sound/midias/83_1.wav
+"84.3 MHz","Nova Morada",./lib/sound/midias/84_3.wav
+"84.7 MHz","Gru FM",./lib/sound/midias/84_7.wav
+"86.3 MHz",Bandeirantes,./lib/sound/midias/86_3.wav
+"87.1 MHz","Radio Nacional",./lib/sound/midias/87_1.wav
+"88.1 MHz","Gazeta FM",./lib/sound/midias/88_1.wav
+"88.5 MHz","Radio Laser FM",./lib/sound/midias/88_5.wav
+"89.1 MHz","Radio Rock",./lib/sound/midias/89_1.wav
+"89.7 MHz","Novabrasil FM",./lib/sound/midias/89_7.wav
+"90.1 MHz","Radio Gospel",./lib/sound/midias/90_1.wav
+"90.5 MHz",CBN,./lib/sound/midias/90_5.wav
+"91.3 MHz","Radio Disney",./lib/sound/midias/91_3.wav
+"92.5 MHz","Radio Kiss",./lib/sound/midias/92_5.wav
+"92.9 MHz","Massa FM",./lib/sound/midias/92_9.wav
+"93.3 MHz","Estilo FM",./lib/sound/midias/93_3.wav
+"93.7 MHz","Radio USP FM",./lib/sound/midias/93_7.wav
+"94.1 MHz","Nossa Radio",./lib/sound/midias/94_1.wav
+"94.7 MHz","Antena 1",./lib/sound/midias/94_7.wav
+"95.3 MHz","Nativa FM",./lib/sound/midias/95_3.wav
+"96.1 MHz","Band FM",./lib/sound/midias/96_1.wav
+"96.9 MHz","BandNews FM",./lib/sound/midias/96_9.wav
+"97.7 MHz","Energia 97 FM",./lib/sound/midias/97_7.wav
+"98.5 MHz",Metropolitana,./lib/sound/midias/98_5.wav
+"99.5 MHz","Rede Aleluia",./lib/sound/midias/99_5.wav
+"100.1 MHz",Transamérica,./lib/sound/midias/100_1.wav
+"100.9 MHz","Jovem Pan FM",./lib/sound/midias/100_9.wav
+"101.7 MHz","Alpha FM",./lib/sound/midias/101_7.wav
+"102.5 MHz","Imprensa FM",./lib/sound/midias/102_5.wav
+"103.3 MHz","Cultura FM",./lib/sound/midias/103_3.wav
+"104.1 MHz","Top FM",./lib/sound/midias/104_1.wav
+"105.7 MHz","Musical FM",./lib/sound/midias/105_7.wav
+"106.3 MHz","Radio Mix FM",./lib/sound/midias/106_3.wav
+"107.3 MHz","Eldorado FM",./lib/sound/midias/107_3.wav
+"107.9 MHz","Tropical FM",./lib/sound/midias/107_9.wav
+"76.7 MHz","Jovem Pan News",./lib/sound/midias/76_7.mp3
+"77.5 MHz","Radio Capital",./lib/sound/midias/77_5.mp3
+"77.9 MHz","Cultura Brasil",./lib/sound/midias/77_9.mp3
+"79.5 MHz","Radio São Paulo",./lib/sound/midias/79_5.mp3
+"79.9 MHz","Nova Difusora",./lib/sound/midias/79_9.mp3
+"80.9 MHz","Radio RBC FM",./lib/sound/midias/80_9.mp3
+"81.9 MHz","Radio ABC",./lib/sound/midias/81_9.mp3
+"82.9 MHz","Melhor FM",./lib/sound/midias/82_9.mp3
+"83.1 MHz","Vibe Mundial",./lib/sound/midias/83_1.mp3
+"84.3 MHz","Nova Morada",./lib/sound/midias/84_3.mp3
+"84.7 MHz","Gru FM",./lib/sound/midias/84_7.mp3
+"86.3 MHz",Bandeirantes,./lib/sound/midias/86_3.mp3
+"87.1 MHz","Radio Nacional",./lib/sound/midias/87_1.mp3
+"88.1 MHz","Gazeta FM",./lib/sound/midias/88_1.mp3
+"88.5 MHz","Radio Laser FM",./lib/sound/midias/88_5.mp3
+"89.1 MHz","Radio Rock",./lib/sound/midias/89_1.mp3
+"89.7 MHz","Novabrasil FM",./lib/sound/midias/89_7.mp3
+"90.1 MHz","Radio Gospel",./lib/sound/midias/90_1.mp3
+"90.5 MHz",CBN,./lib/sound/midias/90_5.mp3
+"91.3 MHz","Radio Disney",./lib/sound/midias/91_3.mp3
+"92.5 MHz","Radio Kiss",./lib/sound/midias/92_5.mp3
+"92.9 MHz","Massa FM",./lib/sound/midias/92_9.mp3
+"93.3 MHz","Estilo FM",./lib/sound/midias/93_3.mp3
+"93.7 MHz","Radio USP FM",./lib/sound/midias/93_7.mp3
+"94.1 MHz","Nossa Radio",./lib/sound/midias/94_1.mp3
+"94.7 MHz","Antena 1",./lib/sound/midias/94_7.mp3
+"95.3 MHz","Nativa FM",./lib/sound/midias/95_3.mp3
+"96.1 MHz","Band FM",./lib/sound/midias/96_1.mp3
+"96.9 MHz","BandNews FM",./lib/sound/midias/96_9.mp3
+"97.7 MHz","Energia 97 FM",./lib/sound/midias/97_7.mp3
+"98.5 MHz",Metropolitana,./lib/sound/midias/98_5.mp3
+"99.5 MHz","Rede Aleluia",./lib/sound/midias/99_5.mp3
+"100.1 MHz",Transamérica,./lib/sound/midias/100_1.mp3
+"100.9 MHz","Jovem Pan FM",./lib/sound/midias/100_9.mp3
+"101.7 MHz","Alpha FM",./lib/sound/midias/101_7.mp3
+"102.5 MHz","Imprensa FM",./lib/sound/midias/102_5.mp3
+"103.3 MHz","Cultura FM",./lib/sound/midias/103_3.mp3
+"104.1 MHz","Top FM",./lib/sound/midias/104_1.mp3
+"105.7 MHz","Musical FM",./lib/sound/midias/105_7.mp3
+"106.3 MHz","Radio Mix FM",./lib/sound/midias/106_3.mp3
+"107.3 MHz","Eldorado FM",./lib/sound/midias/107_3.mp3
+"107.9 MHz","Tropical FM",./lib/sound/midias/107_9.mp3
+"76.7 MHz","Jovem Pan News",./lib/sound/midias/76_7.ogg
+"77.5 MHz","Radio Capital",./lib/sound/midias/77_5.ogg
+"77.9 MHz","Cultura Brasil",./lib/sound/midias/77_9.ogg
+"79.5 MHz","Radio São Paulo",./lib/sound/midias/79_5.ogg
+"79.9 MHz","Nova Difusora",./lib/sound/midias/79_9.ogg
+"80.9 MHz","Radio RBC FM",./lib/sound/midias/80_9.ogg
+"81.9 MHz","Radio ABC",./lib/sound/midias/81_9.ogg
+"82.9 MHz","Melhor FM",./lib/sound/midias/82_9.ogg
+"83.1 MHz","Vibe Mundial",./lib/sound/midias/83_1.ogg
+"84.3 MHz","Nova Morada",./lib/sound/midias/84_3.ogg
+"84.7 MHz","Gru FM",./lib/sound/midias/84_7.ogg
+"86.3 MHz",Bandeirantes,./lib/sound/midias/86_3.ogg
+"87.1 MHz","Radio Nacional",./lib/sound/midias/87_1.ogg
+"88.1 MHz","Gazeta FM",./lib/sound/midias/88_1.ogg
+"88.5 MHz","Radio Laser FM",./lib/sound/midias/88_5.ogg
+"89.1 MHz","Radio Rock",./lib/sound/midias/89_1.ogg
+"89.7 MHz","Novabrasil FM",./lib/sound/midias/89_7.ogg
+"90.1 MHz","Radio Gospel",./lib/sound/midias/90_1.ogg
+"90.5 MHz",CBN,./lib/sound/midias/90_5.ogg
+"91.3 MHz","Radio Disney",./lib/sound/midias/91_3.ogg
+"92.5 MHz","Radio Kiss",./lib/sound/midias/92_5.ogg
+"92.9 MHz","Massa FM",./lib/sound/midias/92_9.ogg
+"93.3 MHz","Estilo FM",./lib/sound/midias/93_3.ogg
+"93.7 MHz","Radio USP FM",./lib/sound/midias/93_7.ogg
+"94.1 MHz","Nossa Radio",./lib/sound/midias/94_1.ogg
+"94.7 MHz","Antena 1",./lib/sound/midias/94_7.ogg
+"95.3 MHz","Nativa FM",./lib/sound/midias/95_3.ogg
+"96.1 MHz","Band FM",./lib/sound/midias/96_1.ogg
+"96.9 MHz","BandNews FM",./lib/sound/midias/96_9.ogg
+"97.7 MHz","Energia 97 FM",./lib/sound/midias/97_7.ogg
+"98.5 MHz",Metropolitana,./lib/sound/midias/98_5.ogg
+"99.5 MHz","Rede Aleluia",./lib/sound/midias/99_5.ogg
+"100.1 MHz",Transamérica,./lib/sound/midias/100_1.ogg
+"100.9 MHz","Jovem Pan FM",./lib/sound/midias/100_9.ogg
+"101.7 MHz","Alpha FM",./lib/sound/midias/101_7.ogg
+"102.5 MHz","Imprensa FM",./lib/sound/midias/102_5.ogg
+"103.3 MHz","Cultura FM",./lib/sound/midias/103_3.ogg
+"104.1 MHz","Top FM",./lib/sound/midias/104_1.ogg
+"105.7 MHz","Musical FM",./lib/sound/midias/105_7.ogg
+"106.3 MHz","Radio Mix FM",./lib/sound/midias/106_3.ogg
+"107.3 MHz","Eldorado FM",./lib/sound/midias/107_3.ogg
+"107.9 MHz","Tropical FM",./lib/sound/midias/107_9.ogg
+"76.7 MHz","Jovem Pan News",./lib/sound/midias/76_7.wav
+"77.5 MHz","Radio Capital",./lib/sound/midias/77_5.wav
+"77.9 MHz","Cultura Brasil",./lib/sound/midias/77_9.wav
+"79.5 MHz","Radio São Paulo",./lib/sound/midias/79_5.wav
+"79.9 MHz","Nova Difusora",./lib/sound/midias/79_9.wav
+"80.9 MHz","Radio RBC FM",./lib/sound/midias/80_9.wav
+"81.9 MHz","Radio ABC",./lib/sound/midias/81_9.wav
+"82.9 MHz","Melhor FM",./lib/sound/midias/82_9.wav
+"83.1 MHz","Vibe Mundial",./lib/sound/midias/83_1.wav
+"84.3 MHz","Nova Morada",./lib/sound/midias/84_3.wav
+"84.7 MHz","Gru FM",./lib/sound/midias/84_7.wav
+"86.3 MHz",Bandeirantes,./lib/sound/midias/86_3.wav
+"87.1 MHz","Radio Nacional",./lib/sound/midias/87_1.wav
+"88.1 MHz","Gazeta FM",./lib/sound/midias/88_1.wav
+"88.5 MHz","Radio Laser FM",./lib/sound/midias/88_5.wav
+"89.1 MHz","Radio Rock",./lib/sound/midias/89_1.wav
+"89.7 MHz","Novabrasil FM",./lib/sound/midias/89_7.wav
+"90.1 MHz","Radio Gospel",./lib/sound/midias/90_1.wav
+"90.5 MHz",CBN,./lib/sound/midias/90_5.wav
+"91.3 MHz","Radio Disney",./lib/sound/midias/91_3.wav
+"92.5 MHz","Radio Kiss",./lib/sound/midias/92_5.wav
+"92.9 MHz","Massa FM",./lib/sound/midias/92_9.wav
+"93.3 MHz","Estilo FM",./lib/sound/midias/93_3.wav
+"93.7 MHz","Radio USP FM",./lib/sound/midias/93_7.wav
+"94.1 MHz","Nossa Radio",./lib/sound/midias/94_1.wav
+"94.7 MHz","Antena 1",./lib/sound/midias/94_7.wav
+"95.3 MHz","Nativa FM",./lib/sound/midias/95_3.wav
+"96.1 MHz","Band FM",./lib/sound/midias/96_1.wav
+"96.9 MHz","BandNews FM",./lib/sound/midias/96_9.wav
+"97.7 MHz","Energia 97 FM",./lib/sound/midias/97_7.wav
+"98.5 MHz",Metropolitana,./lib/sound/midias/98_5.wav
+"99.5 MHz","Rede Aleluia",./lib/sound/midias/99_5.wav
+"100.1 MHz",Transamérica,./lib/sound/midias/100_1.wav
+"100.9 MHz","Jovem Pan FM",./lib/sound/midias/100_9.wav
+"101.7 MHz","Alpha FM",./lib/sound/midias/101_7.wav
+"102.5 MHz","Imprensa FM",./lib/sound/midias/102_5.wav
+"103.3 MHz","Cultura FM",./lib/sound/midias/103_3.wav
+"104.1 MHz","Top FM",./lib/sound/midias/104_1.wav
+"105.7 MHz","Musical FM",./lib/sound/midias/105_7.wav
+"106.3 MHz","Radio Mix FM",./lib/sound/midias/106_3.wav
+"107.3 MHz","Eldorado FM",./lib/sound/midias/107_3.wav
+"107.9 MHz","Tropical FM",./lib/sound/midias/107_9.wav
