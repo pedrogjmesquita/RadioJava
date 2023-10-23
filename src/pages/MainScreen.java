@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+import pages.components.FuncButton;
 import pages.components.SaveButton;
 
 import javax.sound.sampled.AudioSystem;
@@ -35,9 +36,9 @@ public class MainScreen extends JFrame implements ActionListener {
         nome = new JTextField("Radio ABC");
         display = new JTextField("81.9 MHz");
         midia = reproduzir(display.getText());
-        botaoFwd = new JButton(new ImageIcon("./lib/imagens/botoes_func/fwd.png"));
-        botaoBwd = new JButton(new ImageIcon("./lib/imagens/botoes_func/bwd.png"));
-        resetSaves = new JButton(new ImageIcon("./lib/imagens/botoes_func/reset.png"));
+        botaoFwd = new FuncButton('>');
+        botaoBwd = new FuncButton('<');
+        resetSaves = new FuncButton('r');
         save1 = new SaveButton(1);
         save2 = new SaveButton(2);
         save3 = new SaveButton(3);
@@ -90,19 +91,9 @@ public class MainScreen extends JFrame implements ActionListener {
             // Configura os botoes de funcao
             botoes.setLayout(new GridLayout(1,3));
 
-            resetSaves.setMnemonic(KeyEvent.VK_R);
-            botaoFwd.setMnemonic(KeyEvent.VK_RIGHT);
-            botaoBwd.setMnemonic(KeyEvent.VK_LEFT);
-            botaoBwd.setPressedIcon(new ImageIcon("./lib/imagens/botoes_func/clicked/bwd.png"));
-            botaoFwd.setPressedIcon(new ImageIcon("./lib/imagens/botoes_func/clicked/fwd.png"));
-            resetSaves.setPressedIcon(new ImageIcon("./lib/imagens/botoes_func/clicked/reset.png"));
-            
             for(JButton botao:btsFunc){
                 botoes.add(botao);
                 botao.addActionListener(this);
-                botao.setContentAreaFilled(false);
-                botao.setBorder(null);
-                botao.setCursor(new Cursor(Cursor.HAND_CURSOR));
             } 
 
 
