@@ -4,6 +4,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 import pages.components.FuncButton;
+import pages.components.RadioDisplay;
 import pages.components.SaveButton;
 
 import javax.sound.sampled.AudioSystem;
@@ -13,16 +14,16 @@ import java.io.File;
 import java.io.IOException;
 
 public class MainScreen extends JFrame implements ActionListener {
-    private JButton botaoFwd;
-    private JButton botaoBwd;
-    private JButton resetSaves;    
-    private JButton save1;
-    private JButton save2;
-    private JButton save3;
-    private JButton save4;
-    private JButton save5;
-    private JButton save6;
-    JButton [] btsSave;
+    private FuncButton botaoFwd;
+    private FuncButton botaoBwd;
+    private FuncButton resetSaves;    
+    private SaveButton save1;
+    private SaveButton save2;
+    private SaveButton save3;
+    private SaveButton save4;
+    private SaveButton save5;
+    private SaveButton save6;
+    private SaveButton [] btsSave;
     private String [] saves = {"0 MHz","0 MHz","0 MHz","0 MHz","0 MHz","0 MHz"};
     private JTextField display;
     private JTextField nome;
@@ -33,22 +34,25 @@ public class MainScreen extends JFrame implements ActionListener {
         setIconImage(new ImageIcon("./lib/imagens/icone.png").getImage());        
 
         // Inicializa os componentes
-        nome = new JTextField("Radio ABC");
-        display = new JTextField("81.9 MHz");
+        nome = new RadioDisplay("Radio ABC");
+        display = new RadioDisplay("81.9 MHz");
         midia = reproduzir(display.getText());
+        
         botaoFwd = new FuncButton('>');
         botaoBwd = new FuncButton('<');
         resetSaves = new FuncButton('r');
+
         save1 = new SaveButton(1);
         save2 = new SaveButton(2);
         save3 = new SaveButton(3);
         save4 = new SaveButton(4);
         save5 = new SaveButton(5);
         save6 = new SaveButton(6);
-        JButton [] bts = {save1,save2,save3,save4,save5,save6};
-        JButton [] btsFunc = {botaoBwd,resetSaves,botaoFwd};
+
+        SaveButton [] bts = {save1,save2,save3,save4,save5,save6};
+        FuncButton [] btsFunc = {botaoBwd,resetSaves,botaoFwd};
         this.btsSave = bts;
-        JTextField [] displays = {display,nome};
+        
         Container botoes = new Container();        
         JPanel painelDir = new JPanel(); 
         JPanel painelEsq = new JPanel(); 
@@ -70,19 +74,12 @@ public class MainScreen extends JFrame implements ActionListener {
         
         // Configura os displays e botoes
         
-        
             // Configura os displays
         Font digitalFont = setCustomFont("./lib/fonts/alarm clock.ttf");
         display.setFont(digitalFont);
         nome.setFont(new Font("DialogInput",Font.BOLD,50));
-        for(JTextField disp:displays){
-            disp.setHorizontalAlignment(JTextField.CENTER);
-            disp.setForeground(Color.black);
-            disp.setEditable(false);
-            disp.setBorder(null);
-        }
             
-        for(JButton botao: this.btsSave){
+        for(SaveButton botao: this.btsSave){
             painelDir.add(botao);
             botao.addActionListener(this);
         }
@@ -91,7 +88,7 @@ public class MainScreen extends JFrame implements ActionListener {
             // Configura os botoes de funcao
             botoes.setLayout(new GridLayout(1,3));
 
-            for(JButton botao:btsFunc){
+            for(FuncButton botao:btsFunc){
                 botoes.add(botao);
                 botao.addActionListener(this);
             } 
